@@ -7,6 +7,7 @@ A transparent, decentralized banking interface deployed on the Flare Coston2 tes
 * **Network:** Flare Coston2 Testnet
 * **Contract Address:** `0x51B9272cF09DDFED0342f489573c632c902d4EF6`
 * **Block Explorer:** [View on Coston2 Explorer](https://coston2-explorer.flare.network/address/0x51B9272cF09DDFED0342f489573c632c902d4EF6)
+<img width="1598" height="1062" alt="image" src="https://github.com/user-attachments/assets/592e2e84-67e7-410b-a0c6-95f935c6bdd2" />
 
 ## Description
 
